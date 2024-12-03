@@ -23,9 +23,9 @@ export default function Education() {
               whileHover={{ scale: 1.02 }}
               className="bg-white dark:bg-gray-900 p-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300"
             >
-              <h3 className="text-lg font-semibold text-primary-900 dark:text-white">University of Texas at Arlington</h3>
+              <h3 className="text-lg font-semibold text-primary-900 dark:text-white">University of Texas </h3>
               <p className="text-accent-600 dark:text-accent-400">Bachelor of Science in Computer Science</p>
-              <p className="text-primary-500 dark:text-primary-400 mt-1">Aug. 2023 – Present | Arlington, TX</p>
+              <p className="text-primary-500 dark:text-primary-400 mt-1">Aug. 2023 – Present | TX</p>
             </motion.div>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
